@@ -1,0 +1,56 @@
+{
+  "version": 1,
+  "base_track": "qr",
+  "base_artist": "Worldname",
+  "createdAt": "2025-12-04T12:51:38.869730Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Mi Qr - Yape",
+      "artist": "Susy Diaz",
+      "has_synced": false,
+      "path": "select/01_Mi_Qr_-_Yape_Susy_Diaz.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "QR DAY",
+      "artist": "Hugo Loud",
+      "has_synced": false,
+      "path": "select/02_QR_DAY_Hugo_Loud.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "QR-код",
+      "artist": "Хитобои",
+      "has_synced": false,
+      "path": "select/03_QR-код_Хитобои.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "QR Code",
+      "artist": "MC Kapela",
+      "has_synced": true,
+      "path": "select/04_QR_Code_MC_Kapela.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Mi Qr",
+      "artist": "Susy Díaz",
+      "has_synced": false,
+      "path": "select/05_Mi_Qr_Susy_Díaz.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "qr",
+      "artist": "Worldname",
+      "has_synced": false,
+      "path": "select/pl_01_qr_Worldname.txt"
+    }
+  ]
+}
